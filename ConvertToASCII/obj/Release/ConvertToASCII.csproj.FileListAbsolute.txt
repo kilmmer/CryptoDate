@@ -1,0 +1,4 @@
+G:\CryptoDate\ConvertToASCII\bin\Release\ConvertToASCII.dll
+G:\CryptoDate\ConvertToASCII\bin\Release\ConvertToASCII.pdb
+G:\CryptoDate\ConvertToASCII\obj\Release\ConvertToASCII.dll
+G:\CryptoDate\ConvertToASCII\obj\Release\ConvertToASCII.pdb
